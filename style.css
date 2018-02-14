@@ -11,8 +11,21 @@ header{
 main{
     height:100vh;
     width:100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 img{
     width:100%;
     height:100%;
+}
+
+form{
+    background:#fdf;
+    color:#202;
+}
+
+input,textarea{
+    width:100%;
+    border-radius:2px;
 }
