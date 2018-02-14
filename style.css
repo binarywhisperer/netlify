@@ -21,8 +21,13 @@ img{
 }
 
 form{
-    background:#fdf;
-    color:#202;
+    background: #fff8ff;
+    color: #202;
+    padding: 10rem;
+    width: 50%;
+    border-radius:5px;
+    font-size:2rem;
+    line-height:2.2rem;
 }
 
 input,textarea{
